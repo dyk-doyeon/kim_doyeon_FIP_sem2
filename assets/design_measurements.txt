@@ -1,0 +1,112 @@
+
+
+* Header
+
+Main navigation Box:
+100% wide x 155px high
+
+
+SNS logo:
+30px wide x 30px high
+Margin right: 5px
+
+
+* Hero
+
+Img:
+100% wide x 300px high
+
+
+* Main page, Section 1
+
+Background color: sky-blue
+Padding top: 5em
+Padding bottom: 5em
+
+Fan Favorite(h2):
+Margin top: 2em
+Margin bottom: 1.5em
+Font-size: 40px
+
+Beer product:
+width: 280px
+height: 250px
+Margin bottom: 1em
+
+Beer name & cost:
+width: 280px
+height: 40px
+
+
+* Main page, Section 2
+
+Margin bottom: 5em
+
+Opening Hours(h2):
+Margin top: 2em
+Margin bottom: 1.5em
+Font-size: 40px
+
+Opening info text:
+width: 100%
+height: 400px
+Margin bottom: 2em
+
+Map:
+width: 100%
+height: 500px
+
+Map info:
+Width: 300px
+Height: 200px
+
+
+* Footer
+
+Margin right/left: 150px
+Margin top/bottom: 3em
+
+Right side box: 
+Width: 220px
+Height: 350px
+
+Left side box
+Width: 300px
+Height: 200px
+
+
+* Home page, section 1
+
+Background color: sky-blue
+Padding top: 5em
+Padding bottom: 5em
+
+About Us(h2):
+Margin top: 2em
+Margin bottom: 1.5em
+Font-size: 40px
+
+Beer product:
+width: 100%
+height: 450px
+
+
+* Home page, section 2
+
+Margin bottom: 5em
+
+FAQ(h2):
+Margin top: 2em
+Margin bottom: 1.5em
+Font-size: 40px
+
+FAQ Questions:
+Width: 100%
+Height: 100px
+Margin bottom: 10px
+Padding left: 5em
+
+
+
+
+
