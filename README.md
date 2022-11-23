@@ -1,5 +1,4 @@
 # FIP
-
 ## Making a web page
 TODO: Create five Pages responsive HTML5 website, and some UI that can be used to load relevant information from an array.
 
@@ -21,5 +20,12 @@ TODO: Create five Pages responsive HTML5 website, and some UI that can be used t
     4. Push to the branch: git push origin my-new-feature
     5. Submit a pull request :D
 
+## Technologies
+
+- HTML/CSS
+- JS
+- Photoshop/Illustrator
+- After Effect
+
 ## License
-MIT
+Copyright © 2022 [Doyeon Kim](https://github.com/Doyeon-k-fanshawe/kim_doyeon_FIP_sem2)
